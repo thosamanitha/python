@@ -1,0 +1,6 @@
+radius=4
+pi=3.14
+pi
+perimeter=2*pi*radius
+print(perimeter)area=pi*(radius**2)
+print(area)
